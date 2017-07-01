@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<grafo>
+    <vertice id="1001">
+        <valorvertice>9</valorvertice>
+    </vertice>	
+	<vertice id="1002">
+        <valorvertice>1</valorvertice>
+    </vertice>
+	<vertice id="1003">
+        <valorvertice>2</valorvertice>
+    </vertice>
+	<vertice id="1004">
+        <valorvertice>3</valorvertice>
+    </vertice>
+	<vertice id="1005">
+        <valorvertice>7</valorvertice>
+    </vertice>
+
+	<aresta id="2001">
+        <vatual>9</vatual>
+        <vprox>1</vprox>
+        <cost>1</cost>
+    </aresta>
+	
+	<aresta id="2002">
+        <vatual>9</vatual>
+        <vprox>3</vprox>
+        <cost>4</cost>
+    </aresta>
+	
+	<aresta id="2003">
+        <vatual>3</vatual>
+        <vprox>1</vprox>
+        <cost>1</cost>
+    </aresta>
+	
+	<aresta id="2003">
+        <vatual>3</vatual>
+        <vprox>2</vprox>
+        <cost>2</cost>
+    </aresta>
+	<aresta id="2003">
+        <vatual>3</vatual>
+        <vprox>7</vprox>
+        <cost>3</cost>
+    </aresta>
+	<aresta id="2003">
+        <vatual>1</vatual>
+        <vprox>2</vprox>
+        <cost>3</cost>
+    </aresta>
+	<aresta id="2003">
+        <vatual>1</vatual>
+        <vprox>7</vprox>
+        <cost>5</cost>
+    </aresta>
+	<aresta id="2003">
+        <vatual>2</vatual>
+        <vprox>7</vprox>
+        <cost>2</cost>
+    </aresta>
+
+</grafo>
